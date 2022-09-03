@@ -1,2 +1,1 @@
-### 夏磊傻逼
-
+echo $_GET['echostr'];exit;
